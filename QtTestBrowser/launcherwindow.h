@@ -1,4 +1,5 @@
 /*
+ * Copyright (C) 2013 peng yue
  * Copyright (C) 2010 Nokia Corporation and/or its subsidiary(-ies)
  * Copyright (C) 2009 Girish Ramakrishnan <girish@forwardbias.in>
  * Copyright (C) 2006 George Staikos <staikos@kde.org>

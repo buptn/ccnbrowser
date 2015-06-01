@@ -1,4 +1,5 @@
 /*
+ *  Copyright (C) 2013 peng yue
  *  Copyright (C) 2009, 2010 Sebastian Dröge <sebastian.droege@collabora.co.uk>
  *
  *  This library is free software; you can redistribute it and/or
